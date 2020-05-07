@@ -42,5 +42,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             textView.text = "こんばんは"
         }
     }
+
+     fun greeting(v:View) {
+    }
     }
 
